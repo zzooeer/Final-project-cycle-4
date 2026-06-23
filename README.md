@@ -1,7 +1,7 @@
 # Project Cycle 4: Physical Fighting and Screen Time
 
-* **Repository**: 
-* **Presentation Video**: *(請在此處貼上你們這次 Cycle 4 的雲端影片連結)*
+* **Repository**: https://github.com/zzooeer/Final-project-cycle-4
+* **Presentation Video**: https://youtu.be/HaHAeT-gs7M
 
 ---
 
